@@ -10,4 +10,4 @@
 
 Совместимость:
 - SteamVR(PC)
-  Oculus Quest (однако, нужно добавить Oculus Integation и сменить платформу сборки на Android)
+- Oculus Quest (однако, нужно добавить Oculus Integation и сменить платформу сборки на Android)
