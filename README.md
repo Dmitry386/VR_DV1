@@ -8,4 +8,6 @@
 
 В проекте использован: VRIF 1.82
 
-![image](https://github.com/user-attachments/assets/08756739-1b82-4425-87f1-46ee1ffb4118)
+Совместимость:
+- SteamVR(PC)
+  Oculus Quest (однако, нужно добавить Oculus Integation и сменить платформу сборки на Android)
